@@ -1,0 +1,10 @@
+{
+	"name": "ls_cicd_demo_dl_managed_identity",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://devcicddemodl19.dfs.core.windows.net/"
+		}
+	}
+}
